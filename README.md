@@ -44,8 +44,11 @@ Welcome to my GitHub profile! I'm a recent graduate in **Information Systems Eng
 ## 🚀 Projects
 
 ### **Physics-Informed Machine Learning in Aircraft Simulation**
-- Developed LSTM models to capture temporal dependencies in flight data.
-- Enhanced accuracy by integrating physical laws into the loss function.
+- Repository: [PINN Module for Aircraft Simulator](https://github.com/Peridan9/PINN-module-for-aircraft-simulator)
+- Description: Developed a proof of concept showcasing how integrating physical laws into the loss function of a Physics-Informed Neural Network (PINN) can improve accuracy in simulating aircraft movement.
+- Implemented LSTM models to capture temporal dependencies in flight data.
+- While the project demonstrated potential, it remains a foundational step and is not a complete solution.
+
 
 ### **Full-Stack Recipe Finder** (Ongoing)
 - A web app for searching and saving recipes based on user preferences.
