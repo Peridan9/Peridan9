@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a recent graduate in **Information Systems Eng
   - **Physics-Informed Machine Learning**: I believe it's the future of physical computations.
   - **Web Development**: I enjoy both backend and frontend work, especially in JavaScript.
   - **Optimization**: I thrive on creating efficient and creative solutions.
-- **Languages**: Fluent in Python, JavaScript, and SQL, with hands-on experience in Java and C++.
+- **Languages**: Fluent in Python, JavaScript, and familiar with SQL, with hands-on experience in Java and C++.
 
 ---
 
@@ -29,15 +29,9 @@ Welcome to my GitHub profile! I'm a recent graduate in **Information Systems Eng
 - **Programming Languages**:
   - Python (Pandas, NumPy, Matplotlib, PyTorch)
   - JavaScript (Frontend frameworks like React, Backend frameworks like Node.js)
-  - SQL
-- **Tools & Frameworks**:
-  - Flask, FastAPI
-  - Docker, GitHub Actions
-  - PostgreSQL, Firebase
+  - Familiar with SQL
 - **Development Practices**:
-  - Version control with Git and GitHub.
   - Writing clean and maintainable code.
-  - Basic CI/CD pipeline setup for automation.
 
 ---
 
@@ -48,7 +42,6 @@ Welcome to my GitHub profile! I'm a recent graduate in **Information Systems Eng
 - Description: Developed a proof of concept showcasing how integrating physical laws into the loss function of a Physics-Informed Neural Network (PINN) can improve accuracy in simulating aircraft movement.
 - Implemented LSTM models to capture temporal dependencies in flight data.
 - While the project demonstrated potential, it remains a foundational step and is not a complete solution.
-
 
 ### **Full-Stack Recipe Finder** (Ongoing)
 - A web app for searching and saving recipes based on user preferences.
