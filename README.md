@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a recent graduate in **Information Systems Eng
 
 ### **Web Development Environments**
 #### **Personal Website for Seniors**
-- Repository: [Ozzy Osbourne Tribute Website](https://github.com/Peridan9/Personal-Website)
+- Repository: [Ozzy Osbourne Tribute Website](https://github.com/Peridan9/Ozzy-Osbourne)
 - **Technologies**: HTML5, CSS3
 - **Description**: A personal website designed for seniors, showcasing a biography, photo gallery, YouTube playlist, and interactive sections.
 
