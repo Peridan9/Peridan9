@@ -1,6 +1,6 @@
 # **Hi, I'm Daniel Peri!** 👋  
 
-Welcome to my GitHub profile! I'm a **recent graduate in Information Systems Engineering** from **Ben-Gurion University of the Negev**, passionate about **building impactful software** and continuously improving my skills.  
+Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **Ben-Gurion University of the Negev**, passionate about **building impactful software** and continuously improving my skills.  
 
 ---
 
