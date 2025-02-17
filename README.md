@@ -1,7 +1,3 @@
-Here’s an updated **README** including your **Pokedex CLI project** under a new **Boot.dev Projects** section and refreshing your skills to reflect your latest experience. 🚀  
-
----
-
 # **Hi, I'm Daniel Peri!** 👋  
 
 Welcome to my GitHub profile! I'm a **recent graduate in Information Systems Engineering** from **Ben-Gurion University of the Negev**, passionate about **building impactful software** and continuously improving my skills.  
