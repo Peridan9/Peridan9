@@ -20,14 +20,15 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
 ### **Programming Languages**  
 - **Python** – Strong experience with **Pandas, NumPy, Matplotlib, PyTorch**.  
 - **JavaScript** – Proficient in **Vue.js, React** (frontend) and **Node.js, Express.js** (backend).  
-- **Go** – Experience building CLI tools, consuming APIs, and implementing caching mechanisms.  
-- **C & C++** – Hands-on experience with **memory management, data structures, and system simulations**.  
-- **SQL** – Proficient in **MySQL**, familiar with **MongoDB** for NoSQL databases.  
+- **Go** – Experience building CLI tools, consuming APIs, implementing caching mechanisms, and working with **Goose** (database migrations) and **SQLC** (query generation).  
+- **C & C++** – Hands-on experience with **memory management and data structures**.  
+- **SQL** – Proficient in **PostgreSQL**, familiar with **MongoDB** for NoSQL databases.  
 
 ### **Software Development**  
 - **Full-Stack Development** – Building dynamic web applications with Vue.js, React, and Express.js.  
 - **REST API Integration** – Experience consuming APIs like **PokeAPI, Spoonacular API**.  
-- **CLI Development** – Building command-line applications in **Go** with caching and API integration.  
+- **CLI Development** – Building command-line applications in **Go**, with features like authentication, database integration, and API consumption.  
+- **Database Management** – Experience with **PostgreSQL**, using **Goose** for schema migrations and **SQLC** for type-safe query generation.  
 - **Development Practices** – Clean code, modular design, and version control using **Git**.  
 
 ### **Additional Skills**  
@@ -47,7 +48,17 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
   - Explore Pokémon locations and encounters.  
   - Catch Pokémon with a probability-based system based on **base experience**.  
   - Implemented **caching** to optimize API calls.  
-  - Designed with a **Go CLI framework** and structured modular components.  
+  - Designed with a **Go CLI framework** and structured modular components.
+
+#### **RSS Aggregator**  
+- **Repository**: [RSS Aggregator](https://github.com/Peridan9/RSS-Aggregator)  
+- **Technologies**: **Go**, PostgreSQL, Goose, SQLC, CLI  
+- **Description**: A **command-line RSS feed aggregator** that allows users to manage and browse RSS feeds efficiently.  
+  - Fetch and aggregate RSS feeds from various sources.  
+  - User authentication and management system.  
+  - Supports adding, listing, following, and unfollowing RSS feeds.  
+  - Uses **Goose** for database migrations and **SQLC** for query generation.  
+  - Built as a **CLI tool** for streamlined interaction.  
 
 ---
 
