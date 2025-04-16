@@ -1,15 +1,15 @@
 # **Hi, I'm Daniel Peri!** 👋  
 
-Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **Ben-Gurion University of the Negev**, passionate about **building impactful software** and continuously improving my skills.  
+Welcome to my GitHub profile! I'm an **Information Systems Engineering** graduate from **Ben-Gurion University of the Negev**, passionate about **backend development**, **building impactful software**, and continuously improving my skills.  
 
 ---
 
 ## **🛠️ About Me**  
 
-- **Software Engineer in the Making**: Focused on practical, application-based development, and always eager to learn new tools and technologies.  
+- **Software Engineer in the Making**: Focused on **backend development**, practical applications, and always eager to learn new tools and technologies.  
 - **Key Interests**:  
+  - **Backend Engineering** – Scalable, maintainable, and efficient server-side systems.  
   - **Physics-Informed Machine Learning** – The future of physical computations.  
-  - **Web Development** – Full-stack development with Vue.js, React, and Node.js.  
   - **Optimization & System Design** – Creating efficient and scalable solutions.  
 - **Languages**: Proficient in **Python, JavaScript, Go**, with experience in **C, C++, and SQL**.  
 
@@ -20,21 +20,21 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
 ### **Programming Languages**  
 - **Python** – Strong experience with **Pandas, NumPy, Matplotlib, PyTorch**.  
 - **JavaScript** – Proficient in **Vue.js, React** (frontend) and **Node.js, Express.js** (backend).  
-- **Go** – Experience building CLI tools, consuming APIs, implementing caching mechanisms, and working with **Goose** (database migrations) and **SQLC** (query generation).  
+- **Go** – Experience building CLI tools, REST APIs, middleware, and backend services with **Goose** and **SQLC**.  
 - **C & C++** – Hands-on experience with **memory management and data structures**.  
 - **SQL** – Proficient in **PostgreSQL**, familiar with **MongoDB** for NoSQL databases.  
 
 ### **Software Development**  
-- **Full-Stack Development** – Building dynamic web applications with Vue.js, React, and Express.js.  
-- **REST API Integration** – Experience consuming APIs like **PokeAPI, Spoonacular API**.  
-- **CLI Development** – Building command-line applications in **Go**, with features like authentication, database integration, and API consumption.  
+- **Backend Development** – Building RESTful APIs, handling authentication, database management, and performance optimization.  
+- **Full-Stack Projects** – Experience integrating frontend and backend systems.  
+- **CLI Tools** – Backend-focused CLI applications with secure authentication and database support.  
 - **Database Management** – Experience with **PostgreSQL**, using **Goose** for schema migrations and **SQLC** for type-safe query generation.  
 - **Development Practices** – Clean code, modular design, and version control using **Git**.  
 
 ### **Additional Skills**  
 - **Physics-Informed Machine Learning** – Applying physical laws to deep learning models.  
-- **Game Development** – Experience with **Pygame** for interactive simulations.  
 - **Problem Solving** – Practicing data structures & algorithms on **LeetCode**.  
+- **Game Development** – Experience with **Pygame** for interactive simulations.  
 
 ---
 
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
   - Explore Pokémon locations and encounters.  
   - Catch Pokémon with a probability-based system based on **base experience**.  
   - Implemented **caching** to optimize API calls.  
-  - Designed with a **Go CLI framework** and structured modular components.
+  - Designed with a **Go CLI framework** and structured modular components.  
 
 #### **RSS Aggregator**  
 - **Repository**: [RSS Aggregator](https://github.com/Peridan9/RSS-Aggregator)  
@@ -58,19 +58,24 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
   - User authentication and management system.  
   - Supports adding, listing, following, and unfollowing RSS feeds.  
   - Uses **Goose** for database migrations and **SQLC** for query generation.  
-  - Built as a **CLI tool** for streamlined interaction.  
+  - Built as a **CLI tool** for backend data processing.  
 
----
+#### **Chirpy HTTP Server**  
+- **Repository**: [Chirpy](https://github.com/Peridan9/learn-http-server)  
+- **Technologies**: **Go**, PostgreSQL, Goose, SQLC, net/http  
+- **Description**: A **lightweight Twitter-style backend server** built with Go.  
+  - RESTful API for user registration, login, and posting short messages ("chirps")  
+  - Secure password storage and API key-based authentication  
+  - Includes webhook handling and sorting/filtering chirps by query parameters  
+  - Designed to explore **backend server development fundamentals** in Go  
 
-## **🎓 University Projects**  
+### **University Projects**  
 
-### **Final Project**  
 #### **PINN Module for Aircraft Simulation**  
 - **Repository**: [PINN Module for Aircraft Simulator](https://github.com/Peridan9/PINN-module-for-aircraft-simulator)  
 - **Technologies**: **Python, PyTorch, LSTM**  
 - **Description**: Developed a proof of concept integrating **Physics-Informed Neural Networks (PINNs)** to improve aircraft movement simulation.  
 
-### **Web Development Environments**  
 #### **Personal Website for Seniors**  
 - **Repository**: [Ozzy Osbourne Tribute Website](https://github.com/Peridan9/Ozzy-Osbourne)  
 - **Technologies**: **HTML5, CSS3**  
@@ -87,18 +92,16 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
 - **Technologies**: **Node.js, Express.js, MySQL, Vue.js, Bootstrap**  
 - **Description**: A full-stack recipe manager with **user authentication** and **external API integration**.  
 
-### **Advanced Programming**  
-- **Pokémon Battle System**  
-  - Repository: [Pokémon Battle System](https://github.com/Peridan9/Pokemon-Battles-Management-1)  
-  - **Technologies**: **C**  
-  - **Description**: Simulated **turn-based Pokémon battles** with type effectiveness and dynamic memory management.  
+#### **Pokémon Battle System**  
+- **Repository**: [Pokémon Battle System](https://github.com/Peridan9/Pokemon-Battles-Management-1)  
+- **Technologies**: **C**  
+- **Description**: Simulated **turn-based Pokémon battles** with type effectiveness and dynamic memory management.  
 
-- **Farm Market System**  
-  - Repository: [Farm Market System](https://github.com/Peridan9/Farm-Market-System)  
-  - **Technologies**: **C++**  
-  - **Description**: Simulates a farm market with **livestock trading and dynamic memory management**.  
+#### **Farm Market System**  
+- **Repository**: [Farm Market System](https://github.com/Peridan9/Farm-Market-System)  
+- **Technologies**: **C++**  
+- **Description**: Simulates a farm market with **livestock trading and dynamic memory management**.  
 
-### **Advanced Topics in Databases**  
 #### **Game Recommendation System**  
 - **Repository**: [Game Recommendation System](https://github.com/Peridan9/Game-Recommendation-System)  
 - **Technologies**: **Python, Pygame, MongoDB**  
@@ -108,17 +111,17 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
 
 ## **💻 Current Focus**  
 
+- **Backend Development** – Building scalable APIs and improving infrastructure skills.  
 - **LeetCode Practice** – Enhancing problem-solving and data structures skills.  
 - **Project Development** – Learning **Docker & Cloud Technologies** to improve deployment practices.  
-- **Go & System Design** – Strengthening backend development with **Go** and distributed systems concepts.  
 
 ---
 
 ## **🎯 Goals**  
 
-- Contribute to **large-scale applications** in a corporate environment.  
+- Contribute to **large-scale backend applications** in a corporate environment.  
 - Develop expertise in **cloud infrastructure, microservices, and scalable systems**.  
-- Continue to grow as both a **technical specialist** and a **leader** in software development.  
+- Continue to grow as both a **technical backend specialist** and a **leader** in software development.  
 
 ---
 
@@ -129,4 +132,4 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** from **
 
 ---
 
-Feel free to **explore my repositories** and reach out for collaboration! 🚀✨  
+Feel free to **explore my repositories** and reach out for collaboration! 🚀✨
