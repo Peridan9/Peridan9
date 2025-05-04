@@ -17,24 +17,25 @@ Welcome to my GitHub profile! I'm an **Information Systems Engineering** graduat
 
 ## **🌟 Skills**  
 
-### **Programming Languages**  
+### Programming Languages
 - **Python** – Strong experience with **Pandas, NumPy, Matplotlib, PyTorch**.  
 - **JavaScript** – Proficient in **Vue.js, React** (frontend) and **Node.js, Express.js** (backend).  
 - **Go** – Experience building CLI tools, REST APIs, middleware, and backend services with **Goose** and **SQLC**.  
 - **C & C++** – Hands-on experience with **memory management and data structures**.  
 - **SQL** – Proficient in **PostgreSQL**, familiar with **MongoDB** for NoSQL databases.  
 
-### **Software Development**  
+### Software Development
 - **Backend Development** – Building RESTful APIs, handling authentication, database management, and performance optimization.  
 - **Full-Stack Projects** – Experience integrating frontend and backend systems.  
 - **CLI Tools** – Backend-focused CLI applications with secure authentication and database support.  
 - **Database Management** – Experience with **PostgreSQL**, using **Goose** for schema migrations and **SQLC** for type-safe query generation.  
 - **Development Practices** – Clean code, modular design, and version control using **Git**.  
 
-### **Additional Skills**  
+### Additional Skills
 - **Physics-Informed Machine Learning** – Applying physical laws to deep learning models.  
 - **Problem Solving** – Practicing data structures & algorithms on **LeetCode**.  
 - **Game Development** – Experience with **Pygame** for interactive simulations.  
+- **DevOps & Cloud** – Basic **Docker**, **AWS S3** file storage, and CI/CD pipelines with **GitHub Actions** workflows.  
 
 ---
 
